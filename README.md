@@ -16,7 +16,7 @@ Canvas Group Name:  Project Team 3
 
 Slack Channel Name: 
 
-Git Repository:
+Git Repository: https://github.com/ajmoeser/agile-software-project
 
 Product Name:
 
