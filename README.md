@@ -29,7 +29,7 @@ Stakeholder Types:
 2)
 3)
 
-User Persona for [ADD NAME] (Real Person):
+User Persona for _____ (Real Person):
 
 
 Initial Backlog URL (with estimated PBIs):  
