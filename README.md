@@ -1,32 +1,32 @@
 # agile-software-project
 Repo for Agile Software Development Project
 
-Team Name: 
+Team Name: Scrumdiddlyumptious
 
 Team Members: [ADD ROLES]
-Tarek Ajjour
-Nathaniel Hedmann
-Damian Kilday
-Alec Moeser
-Wesley Rolnick
 
+Damian Kilday, Product owner
+Wesley Rolnick, Scrummaster
+Tarek Ajjour, Team Member
+Nathaniel Hedmann, Team Member
+Alec Moeser, Team Member
 
 Canvas Group Name:  Project Team 3
 
-Slack Channel Name: 
+Slack Channel Name: scrumdiddlyumptious
 
 Git Repository: https://github.com/ajmoeser/agile-software-project
 
-Product Name:
+Product Name: 
 
-Far Vision:  
+Far Vision: Helping students balance their lives
 
-Near Vision:  
+Near Vision: Providing a means for students to share data about classes.
 
 Stakeholder Types:
-1)
-2)
-3)
+1) Existing student (Real person)
+2) Prospective student
+3) Professor
 
 User Persona for _____ (Real Person):
 
