@@ -5,10 +5,15 @@ Team Name: Scrumdiddlyumptious
 
 Team Members: [ADD ROLES]
 
+
 Damian Kilday, Product owner
+
 Wesley Rolnick, Scrummaster
+
 Tarek Ajjour, Team Member
+
 Nathaniel Hedmann, Team Member
+
 Alec Moeser, Team Member
 
 Canvas Group Name:  Project Team 3
@@ -24,8 +29,11 @@ Far Vision: Helping students balance their lives
 Near Vision: Providing a means for students to share data about classes.
 
 Stakeholder Types:
+
 1) Existing student (Real person)
+
 2) Prospective student
+
 3) Professor
 
 User Persona for _____ (Real Person):
