@@ -4,7 +4,6 @@ Repo for Agile Software Development Project
 Team Name: 
 
 Team Members: [ADD ROLES]
-
 Tarek Ajjour
 Nathaniel Hedmann
 Damian Kilday
@@ -32,7 +31,7 @@ Stakeholder Types:
 User Persona for _____ (Real Person):
 
 
-Initial Backlog URL (with estimated PBIs):  
+Initial Backlog URL (with estimated PBIs):  https://trello.com/b/JRxxjxt1/product-backlog
 
 Rationale for Backlog Ordering:  
 
