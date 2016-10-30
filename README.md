@@ -1,68 +1,57 @@
 # agile-software-project
-Repo for Agile Software Development Project
 
-Team Name: Scrumdiddlyumptious
+**Team Name:** Scrumdiddlyumptious
 
-Team Members:
+**Team Members:**
 
+- Damian Kilday, Product owner
+- Wesley Rolnick, Scrummaster
+- Tarek Ajjour, Team Member
+- Nathaniel Hedmann, Team Member
+- Alec Moeser, Team Member
+- Walter Thornton, Team Member
 
-Damian Kilday, Product owner
+**Canvas Group Name:**  Project Team 3
 
-Wesley Rolnick, Scrummaster
-
-Tarek Ajjour, Team Member
-
-Nathaniel Hedmann, Team Member
-
-Alec Moeser, Team Member
-
-
-Canvas Group Name:  Project Team 3
+**Slack Channel Name:** scrumdiddlyumptious
 
 
-Slack Channel Name: scrumdiddlyumptious
+**Git Repository:** https://github.com/ajmoeser/agile-software-project
 
+**Product Name:** BalanceU
 
-Git Repository: https://github.com/ajmoeser/agile-software-project
+**Far Vision:** Helping students balance their lives
 
+**Near Vision:** Providing an application for students to share workload data about classes.
 
-Product Name: [TO BE ADDED]
+**Stakeholder Types:**
 
+- Existing student (Real person)
+- Prospective student
+- Professor
+- Application Admninistrator
 
-Far Vision: Helping students balance their lives
+**User Persona for Tarek Ajjour (Real Person):** https://app.xtensio.com/folio/9rrqkvy4
 
+**Initial Backlog URL (with estimated PBIs):**  https://trello.com/b/JRxxjxt1/product-backlog (Please note that backlog items are written as user stories, but you must click on each item to see the story.)
 
-Near Vision: Providing a means for students to share data about classes.
+**Rationale for Backlog Ordering:**  
 
+**Definition of Ready:**  
 
-Stakeholder Types:
+A product backlog item is ready when:
 
-1) Existing student (Real person)
+- it has a meaningful title;
+- it is expressed as a user story;
+- it is defined clearly;
+- it is not subject to further clear subdivision;
+- it is estimated in story points; and
+- it is not dependent on any other backlog item being completed first.
 
-2) Prospective student
+(In addition to course activities, this definition of ready also was influenced by articles by Scrum Inc., at https://www.scruminc.com/2014/07/20/definition-of-ready/; and Mike Cohn, Mountain Goat Software, at https://www.mountaingoatsoftware.com/blog/the-dangers-of-a-definition-of-ready.)
 
-3) Professor
-
-
-User Persona for _____ (Real Person):
-
-
-Initial Backlog URL (with estimated PBIs):  https://trello.com/b/JRxxjxt1/product-backlog
-
-
-Rationale for Backlog Ordering:  
-
-
-Definition of Ready:  
-
-a) Title
-b) User story opening sentence
-c) Additional details
-d) Estimated in story points. 
-
-
-Whole Team Relative Size Estimating Activity:
-[Must note that only team members participated in estimating]
+**Whole Team Relative Size Estimating Activity:** The Bucket System (see http://www.agileadvice.com/2013/07/30/referenceinformation/agile-estimation-with-the-bucket-system/)
+Only development team members participated in estimating backlog item sizes.
 
 
 
