@@ -15,7 +15,6 @@
 
 **Slack Channel Name:** scrumdiddlyumptious
 
-
 **Git Repository:** https://github.com/ajmoeser/agile-software-project
 
 **Product Name:** BalanceU
@@ -33,7 +32,7 @@
 
 **User Persona for Tarek Ajjour (Real Person):** https://app.xtensio.com/folio/9rrqkvy4
 
-**Initial Backlog URL (with estimated PBIs):**  https://trello.com/b/JRxxjxt1/product-backlog (Please note that backlog items are written as user stories, but you must click on each item to see the story.)
+**Initial Backlog URL (with estimated PBIs):**  https://trello.com/b/JRxxjxt1/product-backlog (Note 1: backlog items are written as user stories, but you must click on each item to see the story. Note 2: the numbers preceding the item titles are story points.)
 
 **Rationale for Backlog Ordering:**  
 
@@ -50,7 +49,7 @@ A product backlog item is ready when:
 
 (In addition to course activities, this definition of ready also was influenced by articles by Scrum Inc., at https://www.scruminc.com/2014/07/20/definition-of-ready/; and Mike Cohn, Mountain Goat Software, at https://www.mountaingoatsoftware.com/blog/the-dangers-of-a-definition-of-ready.)
 
-**Whole Team Relative Size Estimating Activity:** The Bucket System (see http://www.agileadvice.com/2013/07/30/referenceinformation/agile-estimation-with-the-bucket-system/)
+**Whole Team Relative Size Estimating Activity:** The Bucket System (see http://www.agileadvice.com/2013/07/30/referenceinformation/agile-estimation-with-the-bucket-system/).
 Only development team members participated in estimating backlog item sizes.
 
 
