@@ -32,7 +32,9 @@
 
 **User Persona for Tarek Ajjour (Real Person):** https://app.xtensio.com/folio/9rrqkvy4
 
-**Initial Backlog URL (with estimated PBIs):**  https://trello.com/b/JRxxjxt1/product-backlog (Note 1: backlog items are written as user stories, but you must click on each item to see the story. Note 2: the numbers preceding the item titles are story points.)
+**Initial Backlog URL (with estimated PBIs):**  https://trello.com/b/JRxxjxt1/product-backlog 
+**Backlog Note 1:** Backlog items are written as user stories, but you must click on each item to see the story.
+**Backlog Note 2:** The numbers preceding the item titles are story points.
 
 **Rationale for Backlog Ordering:**  
 
