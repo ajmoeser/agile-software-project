@@ -36,7 +36,7 @@
 **Backlog Note 1:** Backlog items are written as user stories, but you must click on each item to see the story.
 **Backlog Note 2:** The numbers preceding the item titles are story points.
 
-**Rationale for Backlog Ordering:**  We relied on one rule and three principles/considerations. First, the inviolable rule was based on logical dependence: no item could be ahead of any item that it depended on to work.  The first principle was "low effort/high value": things that could be done reasonably quickly given their payoff were prioritized.  The second principle was similarity: if one backlog item was closely related to another, they were kept sequential. The third consideration was related to testing: things were ordered so that we would have available easy testing capabilities for new items, without additional work.
+**Rationale for Backlog Ordering:**  We relied on one rule and three principles/considerations. The inviolable rule was based on logical dependence: no item could be ahead of any item that it depended on to work.  The first principle was "low effort/high value": things that could be done reasonably quickly given their payoff were prioritized.  The second principle was similarity: if one backlog item was closely related to another, they were kept sequential. The third consideration was related to testing: things were ordered so that we would have available easy testing capabilities for new items, without additional work.
 
 **Definition of Ready:**  
 
