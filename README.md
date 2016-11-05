@@ -1,5 +1,7 @@
 # agile-software-project
 
+##Part 1
+
 **Team Name:** Scrumdiddlyumptious
 
 **Team Members:**
@@ -53,6 +55,19 @@ A product backlog item is ready when:
 
 **Whole Team Relative Size Estimating Activity:** The Bucket System (see http://www.agileadvice.com/2013/07/30/referenceinformation/agile-estimation-with-the-bucket-system/).
 Only development team members participated in estimating backlog item sizes.
+
+
+##Part 2
+
+**Forecast**: 12 story points
+
+**Forecast Rationale:** Assuming a five-member dev team, and given the size of our base story point, we believed that between 2 and 3 story points per member per sprint was an appropriate size for someone working the equivalent of a 4-credit class.
+
+**Current Sprint Kanban Board:** https://trello.com/b/R462ru7U/current-sprint  **Note 1**: Only dev team members participated in pulling backlog items into sprint backlog.  **Note 2:** No backlog item represented more than half the size of the spring forecast.
+
+**Task Decomposition**: See inside each sprint backlog item, under chacklist labeled "Tasks."
+
+**Sprint Burndown Chart**: **[Will paste in before deadline]**
 
 
 
