@@ -5,6 +5,28 @@
     <title>BalanceU Test Page</title>
 </head>
 <body>
-<h2>This is a test page for BalanceU</h2>
+<h2>This is a test page for BalanceU.</h2>
+<form action="#" th:action="@{/}" th:object="${course}" method="post">
+    <table>
+        <tr>
+            <td>Course Title:</td>
+            <td><input type="text" th:field="*{name}" /></td>
+            <td th:if="${#fields.hasErrors('name')}" th:errors="*{name}">Name error message</td>
+        </tr>
+        <tr>
+            <td>Course Number:</td>
+            <td><input type="text" th:field="*{code}" /></td>
+            <td th:if="${#fields.hasErrors('code')}" th:errors="*{code}">Course Number error message</td>
+        </tr>
+        <tr>
+            <td>Course Instructor:</td>
+            <td><input type="text" th:field="*{taughtBy}" /></td>
+            <td th:if="${#fields.hasErrors('taughtBy')}" th:errors="*{taughtBy}">taughtBy error message</td>
+        </tr>
+        <tr>
+            <td><button type="submit">Submit post</button></td>
+        </tr>
+    </table>
+</form>
 </body>
 </html>
