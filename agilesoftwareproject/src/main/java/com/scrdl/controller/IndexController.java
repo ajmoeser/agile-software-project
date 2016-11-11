@@ -1,4 +1,4 @@
-package com.scrdl.controllers;
+package com.scrdl.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
