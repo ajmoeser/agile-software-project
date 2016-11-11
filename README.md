@@ -69,5 +69,13 @@ Only development team members participated in estimating backlog item sizes.
 
 **Sprint Burndown Chart**: **[Will paste in before deadline]**
 
+**Daily Scrums:** 11/8; 11/10; 11/11; 11/12.
 
+*Documentation of 11/12 Daily Scrum:* **TO BE ADDED**
+
+**Video of Mob Programming:** **TO BE ADDED**
+
+**How to View Working Software:** **TO BE ADDED**
+
+**Sprint Review:** 11/13. **ADD:** note that Stakeholder (Tarek) attended; describe how product backlog was updated based on stakeholder feedback.
 
