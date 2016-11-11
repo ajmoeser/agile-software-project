@@ -16,6 +16,14 @@ public class Course {
     private String name;
     private String code;
     private String taughtBy;
+
+    public Course () {}
+
+    public Course(String name, String code, String taughtBy) {
+        this.name = name;
+        this.code = code;
+        this.taughtBy = taughtBy;
+    }
     //private int courseLevel;
 
 

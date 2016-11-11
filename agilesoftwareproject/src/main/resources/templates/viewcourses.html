@@ -6,11 +6,14 @@
 </head>
 <body>
 <h2>This is a test page that will show the course list</h2>
-<h4>Course Title:</h4>
-<p th:text="${name}" />
-<h4>Course Number:</h4>
-<p th:text="${code}" />
-<h4>Course Instructor:</h4>
-<p th:text="${taughtBy}" />
+<p th:each="course : ${courses}">
+<h4>Name:</h4>
+<div th:text="${course.name}"></div>
+<h4>Number:</h4>
+<div th:text="${course.code}"></div>
+<h4>Instructor:</h4>
+<div th:text="${course.taughtBy}"></div>
+<div>---------------------------------------------------------</div>
+</p>
 </body>
 </html>
