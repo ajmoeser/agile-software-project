@@ -24,6 +24,11 @@
             <td th:if="${#fields.hasErrors('taughtBy')}" th:errors="*{taughtBy}">taughtBy error message</td>
         </tr>
         <tr>
+            <td>Course Workload:</td>
+            <td><input type="text" th:field="*{workload}" /></td>
+            <td th:if="${#fields.hasErrors('workload')}" th:errors="*{workload}">Workload error message</td>
+        </tr>
+        <tr>
             <td><button type="submit">Submit post</button></td>
         </tr>
     </table>

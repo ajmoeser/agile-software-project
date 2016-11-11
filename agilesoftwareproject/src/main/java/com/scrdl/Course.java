@@ -17,14 +17,16 @@ public class Course {
     private String code;
     private String taughtBy;
 
+    private int workload;
+
     public Course () {}
 
-    public Course(String name, String code, String taughtBy) {
+    public Course(String name, String code, String taughtBy, int workload) {
         this.name = name;
         this.code = code;
         this.taughtBy = taughtBy;
+        this.workload = workload;
     }
-    //private int courseLevel;
 
 
     public String getCode() {
@@ -51,12 +53,13 @@ public class Course {
         this.taughtBy = taughtBy;
     }
 
-    /*public String getStyle() {
-        return style;
+    public int getWorkload() {
+        return workload;
     }
 
-    public void setStyle(String style) {
-        this.name = style;
-    }*/
+    public void setWorkload(int workload) {
+        this.workload = workload;
+    }
+
 }
 

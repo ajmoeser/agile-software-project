@@ -26,14 +26,9 @@ public class HomeController {
         if (bindingResult.hasErrors()) {
             return "index";
         }
-        courseRepository.save(new Course(course.getName(), course.getCode(), course.getTaughtBy()));
+        courseRepository.save(new Course(course.getName(), course.getCode(), course.getTaughtBy(), course.getWorkload()));
         model.addAttribute("courses", courseRepository.findAll());
         return "redirect:viewcourses";
-        /* this works for single post:
-        model.addAttribute("name", course.getName());
-        model.addAttribute("code", course.getCode());
-        model.addAttribute("taughtBy", course.getTaughtBy());
-*/
     }
 
     @RequestMapping(value = "/viewcourses", method = RequestMethod.GET)
