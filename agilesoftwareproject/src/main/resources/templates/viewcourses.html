@@ -7,6 +7,8 @@
 <body>
 <h2>This is a test page that will show the course list</h2>
 <p th:each="course : ${courses}">
+<h4>School:</h4>
+<div th:text="${course.school}"></div>
 <h4>Name:</h4>
 <div th:text="${course.name}"></div>
 <h4>Number:</h4>

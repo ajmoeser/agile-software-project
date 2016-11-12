@@ -26,7 +26,7 @@ public class HomeController {
         if (bindingResult.hasErrors()) {
             return "index";
         }
-        courseRepository.save(new Course(course.getName(), course.getCode(), course.getTaughtBy(), course.getWorkload()));
+        courseRepository.save(new Course(course.getName(), course.getCode(), course.getSchool(), course.getTaughtBy(), course.getWorkload()));
         model.addAttribute("courses", courseRepository.findAll());
         return "redirect:viewcourses";
     }

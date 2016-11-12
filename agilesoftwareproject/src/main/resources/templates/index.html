@@ -9,6 +9,11 @@
 <form action="#" th:action="@{/}" th:object="${course}" method="post">
     <table>
         <tr>
+            <td>Name of School:</td>
+            <td><input type="text" th:field="*{school}" /></td>
+            <td th:if="${#fields.hasErrors('school')}" th:errors="*{school}">School error message</td>
+        </tr>
+        <tr>
             <td>Course Title:</td>
             <td><input type="text" th:field="*{name}" /></td>
             <td th:if="${#fields.hasErrors('name')}" th:errors="*{name}">Name error message</td>
