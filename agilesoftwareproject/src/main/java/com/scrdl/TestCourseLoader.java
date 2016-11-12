@@ -39,6 +39,8 @@ public class TestCourseLoader implements ApplicationListener<ContextRefreshedEve
         wisconsinPhysics365.setCode("365");
         wisconsinPhysics365.setTaughtBy("Lorraine Adams");
         harvardFrench1.setWorkload(20);
+        courseRepository.save(wisconsinPhysics365);
+
 
         log.info("Saved Wisconsin Quantum Physics");
 
@@ -48,6 +50,8 @@ public class TestCourseLoader implements ApplicationListener<ContextRefreshedEve
         calCS200.setCode("200");
         calCS200.setTaughtBy("Juan Rodriguez");
         calCS200.setWorkload(16);
+        courseRepository.save(calCS200);
+
 
         log.info("Saved Cal Computer Architecture");
     }
